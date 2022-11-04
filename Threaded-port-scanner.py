@@ -6,7 +6,7 @@ from colorama import init, Fore
 from threading import Thread, Lock
 from queue import Queue
 ascii_banner = pyfiglet.figlet_format("PORT SCANNER")
-ascii_banner1 = pyfiglet.figlet_format("BY DHARANI SANJAIY")
+ascii_banner1 = pyfiglet.figlet_format("BY DHARANI SANJAIY","digital)
 print(ascii_banner,ascii_banner1)
 # some colors
 init()
